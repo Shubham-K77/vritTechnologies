@@ -79,6 +79,4 @@ This implementation is simple and doesn't handle edge cases like:
 
 ## Video Demo
 
-[Click here to watch the demo video] (./taskADemo.mp4)
-
-This README is a simple summary to make it beginner-friendly while explaining the logic clearly. Let me know if you need further refinements!
+[Click here to watch the demo video](./taskADemo.mp4)
